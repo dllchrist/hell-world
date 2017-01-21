@@ -8,4 +8,4 @@ Lei Here, I'm learning how to use git
 ok ok edit from intellij
 
 
-branche-intellij
+branch-intellij
